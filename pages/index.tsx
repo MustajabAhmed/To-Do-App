@@ -104,6 +104,7 @@ export default function Index() {
               </tr>)}
             </tbody>
           </table>
+
         </div>
       </div>
     </>
